@@ -3,70 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b3b45fb2-8e91-40c1-9b2a-1c4d9aaf7145" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/florian-wehde-xW9e8gdotxI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/florian-wehde-xW9e8gdotxI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/lena-paulin-wH2-EJoDcV0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/lena-paulin-wH2-EJoDcV0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/paul-hermann-QFTrLdQIRhI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/paul-hermann-QFTrLdQIRhI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/1_xlarge/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/1_xlarge/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/florian-wehde-xW9e8gdotxI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/florian-wehde-xW9e8gdotxI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/lena-paulin-wH2-EJoDcV0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/lena-paulin-wH2-EJoDcV0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/paul-hermann-QFTrLdQIRhI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/paul-hermann-QFTrLdQIRhI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/2_large/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/2_large/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/florian-wehde-xW9e8gdotxI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/florian-wehde-xW9e8gdotxI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/lena-paulin-wH2-EJoDcV0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/lena-paulin-wH2-EJoDcV0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/paul-hermann-QFTrLdQIRhI-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/paul-hermann-QFTrLdQIRhI-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/3_medium/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/activites/3_medium/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/florian-wehde-xW9e8gdotxI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/kevin-hikari-rV_Qd1l-VXg-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/lena-paulin-wH2-EJoDcV0-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/activites/4_small/reno-laithienne-QUgJhdY5Fyk-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/annie-spratt-Eg1qcIitAuA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/annie-spratt-Eg1qcIitAuA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/aw-creative-VGs8z60yT2c-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/aw-creative-VGs8z60yT2c-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/febrian-zakaria-sjvU0THccQA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/febrian-zakaria-sjvU0THccQA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/fred-kleber-gTbaxaVLvsg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/fred-kleber-gTbaxaVLvsg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/marcus-loke-WQJvWU_HZFo-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/marcus-loke-WQJvWU_HZFo-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/1_xlarge/reisetopia-B8WIgxA_PFU-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/1_xlarge/reisetopia-B8WIgxA_PFU-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/annie-spratt-Eg1qcIitAuA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/annie-spratt-Eg1qcIitAuA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/aw-creative-VGs8z60yT2c-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/aw-creative-VGs8z60yT2c-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/febrian-zakaria-sjvU0THccQA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/febrian-zakaria-sjvU0THccQA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/fred-kleber-gTbaxaVLvsg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/fred-kleber-gTbaxaVLvsg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/marcus-loke-WQJvWU_HZFo-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/marcus-loke-WQJvWU_HZFo-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/2_large/reisetopia-B8WIgxA_PFU-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/2_large/reisetopia-B8WIgxA_PFU-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/annie-spratt-Eg1qcIitAuA-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/annie-spratt-Eg1qcIitAuA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/aw-creative-VGs8z60yT2c-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/aw-creative-VGs8z60yT2c-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/febrian-zakaria-sjvU0THccQA-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/fred-kleber-gTbaxaVLvsg-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/fred-kleber-gTbaxaVLvsg-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/marcus-loke-WQJvWU_HZFo-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/marcus-loke-WQJvWU_HZFo-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/3_medium/reisetopia-B8WIgxA_PFU-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/3_medium/reisetopia-B8WIgxA_PFU-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/annie-spratt-Eg1qcIitAuA-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/emile-guillemot-Bj_rcSC5XfE-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/febrian-zakaria-M6S1WvfW68A-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/febrian-zakaria-sjvU0THccQA-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/fred-kleber-gTbaxaVLvsg-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/marcus-loke-WQJvWU_HZFo-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/nicate-lee-kT-ZyaiwBe0-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hebergements/4_small/reisetopia-B8WIgxA_PFU-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logo/Reservia.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo/Reservia.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logo/Reservia@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo/Reservia@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hebergements/4_small/small_hotel_tout_bleu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hebergements/4_small/small_hotel_tout_bleu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +59,10 @@
       <workItem from="1618479682002" duration="19880000" />
       <workItem from="1618559556949" duration="15000" />
       <workItem from="1618991725373" duration="5597000" />
-      <workItem from="1618999322651" duration="19958000" />
+      <workItem from="1618999322651" duration="20332000" />
+      <workItem from="1619026512928" duration="319000" />
+      <workItem from="1619075947389" duration="27000" />
+      <workItem from="1619599010927" duration="19264000" />
     </task>
     <servers />
   </component>
@@ -136,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
