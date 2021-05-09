@@ -1,20 +1,24 @@
-
+footer {
+    width: 100%;
+}
 #footer__info {
     margin-top: 40px;
-    padding: 40px;
+
+    padding-bottom: 40px;
+    padding-top: 40px;
     background-color: var(--grey);
-    width: 100%;
     display: inline-flex;
+    width: 100%;
 }
 .info{
     width:30%
 }
 .info > h2 {
     font-size: var(--normal);
+    padding-left: 40px;
 }
 ul {
     list-style-type: none;
-    padding: 0;
 }
 li {
     font-size: var(--normal);
