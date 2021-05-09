@@ -14,14 +14,14 @@ footer {
     width:30%
 }
 .info > h2 {
-    font-size: var(--normal);
+    font-size: var(--big);
     padding-left: 40px;
 }
 ul {
     list-style-type: none;
 }
 li {
-    font-size: var(--normal);
+    font-size: var(--big);
     margin: 10px 0;
 }
 
