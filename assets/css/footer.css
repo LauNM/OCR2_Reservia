@@ -3,26 +3,33 @@ footer {
 }
 #footer__info {
     margin-top: 40px;
-
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-top: 30px;
     background-color: var(--grey);
     display: inline-flex;
     width: 100%;
 }
 .info{
-    width:30%
+    width:calc(100% / 3);
 }
 .info > h2 {
-    font-size: var(--big);
+    font-size: var(--medium);
     padding-left: 40px;
 }
 ul {
     list-style-type: none;
 }
 li {
-    font-size: var(--big);
+    font-size: var(--medium);
     margin: 10px 0;
 }
 
-
+@media screen and (max-width: 855px) {
+    #footer__info {
+        display: flex;
+        flex-direction: column;
+    }
+    .info{
+        width:100%
+    }
+}

@@ -3,26 +3,28 @@
     --blue: #0065FC;
     --blue-lighter: #DEEBFF;
     --grey: #F2F2F2;
-    --grey-darker: #d1d1d1;
+    --grey-darker: #bababa;
     --black: #000000;
     /* FONT-SIZE */
-    --normal: 14px;
-    --big: 15px;
-    --important-title: 20px;
+    --mini: 10px;
+    --small: 14px;
+    --medium: 15px;
+    --big: 17px;
+    --important: 20px;
 }
 
 body,h1,h2,h3,h4,h5,h6 {
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 h1 {
     margin: 10px 0 5px 0;
 }
 h1, h2 {
-    font-size: var(--important-title);
+    font-size: var(--important);
 }
 p {
-    font-size: var(--normal);
+    font-size: var(--small);
     margin-top : 3px;
     margin-bottom: 4px;
 }
@@ -43,21 +45,13 @@ p {
     align-items: center;
 
 }
+#nav div:nth-child(n+2){
+    width: 170px;
+    text-align: center;
+}
 #nav div:first-child{
-    flex-grow: 2;
-    order: 1;
+    width: calc(100% - 510px);
     margin-left: 0;
-    direction: ltr;
-}
-
-#nav div:nth-child(2){
-    order: 2;
-}
-#nav div:nth-child(3){
-    order: 3;
-}
-#nav div:nth-child(4){
-    order: 4;
 }
 
 .nav__item > a{
@@ -99,13 +93,12 @@ a.register {
     border-top-left-radius: 10px 10px;
     border-bottom-left-radius: 10px 10px;
     width: 40px;
-    font-size: var(--big);
 }
 .search__form__input {
     padding: 10px;
     border : none;
     width: calc(100% - 190px);
-    font-size: var(--big);
+    font-size: var(--medium);
     color: var(--black);
 }
 
@@ -117,7 +110,7 @@ a.register {
     border-bottom-right-radius: 10px 10px;
     width: 150px;
     color: white;
-    font-size: var(--big);
+    font-size: var(--medium);
     font-weight: bold;
 }
 
@@ -130,17 +123,12 @@ a.register {
     margin : 20px 0 20px 0;
     display: flex;
     align-items: baseline;
-    flex-wrap: wrap;
 
-}
-#search__filter > p {
-    font-size: var(--big);
-    font-weight: bold;
 }
 
 .search__filter__btn{
     display: inline-block;
-    font-size: var(--big);
+    font-size: var(--medium);
     margin-left: 30px;
     padding: 0 25px 0 0;
     background-color: white;
@@ -158,7 +146,7 @@ a.register {
     width: 20px;
     height: 20px;
     padding: 10px;
-    font-size: 18px;
+    font-size: var(--big);
     border-radius: 50%;
     margin-right: 10px ;
 }
@@ -167,8 +155,11 @@ a.register {
 
 .info__number-accommodations {
     margin: 40px 0;
+    display: flex;
+
 }
 .info__number-accommodations__logo {
+    margin-right: 10px;
     color: var(--blue);
     border: 1px solid var(--grey);
     padding:5px;
@@ -176,30 +167,29 @@ a.register {
     width: 10px;
     height: 10px;
     text-align: center;
-    line-height: 10px;
     vertical-align: middle;
-    font-size: 10px;
+    font-size: var(--mini);
 }
 
 
 /* MEDIA QUERIES */
 /* FIRST BREAK POINT */
 @media screen and (max-width: 1220px) {
-    :root {
-        --normal: 12px;
-        --big: 11px;
-        --important-title: 18px;
-    }
+
 }
 
-/* GENERAL */
-@media screen and (max-width: 992px) {
-    .main-container{
-        padding: 0;
+/* TABLET */
+@media screen and (max-width: 995px) {
+    #search__filter {
+        display: inline;
+    }
+    .search__filter__btn{
+        margin: 0 30px 10px 0;
     }
     .search__form--wrapper {
         justify-content: center;
-        width: 90%;
+        width: 95%;
+        max-width: 300px;
     }
     .search__form__input {
         padding: 10px;
@@ -219,7 +209,48 @@ a.register {
         font-weight: 900;
     }
 
+    .main-container {
+        padding: 0;
+    }
+    #search {
+        padding: 0 20px;
+    }
+    .logo {
+        padding-left: 20px;
+    }
+    #nav {
+        height: 130px;
+    }
+    #nav div:nth-child(n) {
+        width: 50%;
+    }
+    #nav div:first-child{
+        order: 1;
+    }
+    #nav div:nth-child(2){
+        order: 3;
+        border-bottom: 3px solid var(--blue);
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    #nav div:nth-child(3){
+        order: 4;
+        border-bottom: 3px solid var(--grey);
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    #nav div:nth-child(4){
+        order: 2;
+        text-align: end;
+    }
+    a.active {
+        color: var(--blue);
+        border-top: none;
+    }
+
 }
 
+@media screen and (max-width: 855px)  {
 
-/* HEADER */
+
+}
