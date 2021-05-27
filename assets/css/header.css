@@ -7,8 +7,8 @@
     --black: #000000;
     /* FONT-SIZE */
     --mini: 10px;
-    --small: 14px;
-    --medium: 15px;
+    --small: 13px;
+    --medium: 14px;
     --big: 17px;
     --important: 20px;
 }
@@ -173,12 +173,6 @@ a.register {
 
 
 /* MEDIA QUERIES */
-/* FIRST BREAK POINT */
-@media screen and (max-width: 1220px) {
-
-}
-
-/* TABLET */
 @media screen and (max-width: 995px) {
     #search__filter {
         display: inline;
@@ -247,10 +241,4 @@ a.register {
         color: var(--blue);
         border-top: none;
     }
-
-}
-
-@media screen and (max-width: 855px)  {
-
-
 }
