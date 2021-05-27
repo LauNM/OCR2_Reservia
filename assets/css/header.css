@@ -43,7 +43,6 @@ p {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-
 }
 #nav div:nth-child(n+2){
     width: 170px;
@@ -67,9 +66,9 @@ a.active {
 
 a.register {
     color: var(--blue);
-    font-weight: bold
-;
+    font-weight: bold;
 }
+
 /* SEARCH CITY ACCOMMODATIONS */
 
 #search {
@@ -86,7 +85,6 @@ a.register {
     border-radius: 10px;
     display: inline-flex;
 }
-
 .search__form__location-btn{
     background-color: var(--grey);
     border: none;
@@ -101,8 +99,6 @@ a.register {
     font-size: var(--medium);
     color: var(--black);
 }
-
-
 .search__form__launch-btn{
     background-color: var(--blue);
     border: none;
@@ -114,6 +110,7 @@ a.register {
     font-weight: bold;
 }
 
+
 .search__form__launch-btn:after {
     content: "Rechercher";
 }
@@ -123,9 +120,7 @@ a.register {
     margin : 20px 0 20px 0;
     display: flex;
     align-items: baseline;
-
 }
-
 .search__filter__btn{
     display: inline-block;
     font-size: var(--medium);
@@ -135,7 +130,6 @@ a.register {
     border: 2px solid var(--grey);
     border-radius: 25px;
 }
-
 .search__filter__btn:hover{
     background-color: var(--grey);
     box-shadow: 5px 5px 10px var(--grey-darker);
@@ -156,7 +150,6 @@ a.register {
 .info__number-accommodations {
     margin: 40px 0;
     display: flex;
-
 }
 .info__number-accommodations__logo {
     margin-right: 10px;
@@ -170,7 +163,6 @@ a.register {
     vertical-align: middle;
     font-size: var(--mini);
 }
-
 
 /* MEDIA QUERIES */
 @media screen and (max-width: 995px) {
@@ -202,7 +194,6 @@ a.register {
         vertical-align: middle;
         font-weight: 900;
     }
-
     .main-container {
         padding: 0;
     }
