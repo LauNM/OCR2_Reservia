@@ -1,22 +1,20 @@
 :root {
-    /* COLOR */
+        /* COLOR */
     --blue: #0065FC;
     --blue-lighter: #DEEBFF;
     --grey: #F2F2F2;
     --grey-darker: #bababa;
     --black: #000000;
-    /* FONT-SIZE */
+        /* FONT-SIZE */
     --mini: 10px;
     --small: 13px;
     --medium: 14px;
     --big: 17px;
-    --important: 20px;
+    --important: 19px;
 }
-
 body,h1,h2,h3,h4,h5,h6 {
     font-family: 'Raleway', sans-serif;
 }
-
 h1 {
     margin: 10px 0 5px 0;
 }
@@ -28,14 +26,12 @@ p {
     margin-top : 3px;
     margin-bottom: 4px;
 }
-
 .btn {
     cursor: pointer;
 }
 .main-container {
     padding: 0 50px;
 }
-
 /*HEADER NAV BAR*/
 #nav {
     width: 100%;
@@ -46,37 +42,30 @@ p {
 }
 #nav div:nth-child(n+2){
     width: 170px;
-    text-align: center;
+    text-align: center;.search__form__input
 }
 #nav div:first-child{
     width: calc(100% - 510px);
     margin-left: 0;
 }
-
 .nav__item > a{
     text-decoration: none;
     color: black;
     padding: 28px;
 }
-
 a.active {
     color: var(--blue);
     border-top: 3px solid var(--blue);
 }
-
 a.register {
     color: var(--blue);
     font-weight: bold;
 }
-
 /* SEARCH CITY ACCOMMODATIONS */
-
 #search {
     margin: 20px 0;
 }
-
 /* HEADER RESEARCH */
-
 .search__form--wrapper {
     margin-top: 20px;
     border : 1px solid var(--grey);
@@ -95,37 +84,43 @@ a.register {
 .search__form__input {
     padding: 10px;
     border : none;
-    width: calc(100% - 190px);
-    font-size: var(--medium);
+    width: calc(100% - 170px);
+}
+.search__form__input::placeholder{
     color: var(--black);
+    font-size: var(--big);
+    font-weight: bold;
 }
 .search__form__launch-btn{
     background-color: var(--blue);
     border: none;
     border-top-right-radius: 10px 10px;
     border-bottom-right-radius: 10px 10px;
-    width: 150px;
+    width: 130px;
     color: white;
-    font-size: var(--medium);
+    font-size: var(--big);
     font-weight: bold;
 }
-
-
 .search__form__launch-btn:after {
     content: "Rechercher";
 }
-
 /*HEADER FILTER*/
 #search__filter {
     margin : 20px 0 20px 0;
     display: flex;
     align-items: baseline;
 }
+.search__filter__title {
+    margin: 30px 0 15px 0;
+    font-size: var(--big);
+    font-weight: bold;
+}
 .search__filter__btn{
     display: inline-block;
     font-size: var(--medium);
+    font-weight: bold;
     margin-left: 30px;
-    padding: 0 25px 0 0;
+    padding: 0 15px 0 0;
     background-color: white;
     border: 2px solid var(--grey);
     border-radius: 25px;
@@ -148,7 +143,7 @@ a.register {
 /* INFORMATION NUMBER OF ACCOMMODATIONS */
 
 .info__number-accommodations {
-    margin: 40px 0;
+    margin: 15px 0;
     display: flex;
 }
 .info__number-accommodations__logo {
@@ -165,17 +160,17 @@ a.register {
 }
 
 /* MEDIA QUERIES */
-@media screen and (max-width: 995px) {
+@media screen and (max-width: 1076px) {
     #search__filter {
         display: inline;
     }
     .search__filter__btn{
-        margin: 0 30px 10px 0;
+        margin: 0 5px 10px 0;
     }
     .search__form--wrapper {
         justify-content: center;
-        width: 95%;
-        max-width: 300px;
+        width: 100%;
+        max-width: 310px;
     }
     .search__form__input {
         padding: 10px;
@@ -187,18 +182,14 @@ a.register {
         width: 40px;
     }
     .search__form__launch-btn:after{
-        font-family: "Font Awesome 5 Free";
+        font-family: "Font Awesome 5 Free", serif;
         content: "\f002";
-        display: inline-block;
-        padding-right: 3px;
-        vertical-align: middle;
-        font-weight: 900;
     }
     .main-container {
         padding: 0;
     }
     #search {
-        padding: 0 20px;
+        padding: 0 10px;
     }
     .logo {
         padding-left: 20px;
