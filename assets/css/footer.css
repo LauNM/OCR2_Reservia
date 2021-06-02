@@ -21,6 +21,7 @@ ul {
 }
 li {
     font-size: var(--medium);
+    font-weight: 300;
     margin: 10px 0;
 }
 

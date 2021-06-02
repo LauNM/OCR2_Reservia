@@ -23,8 +23,12 @@ h1, h2 {
 }
 p {
     font-size: var(--small);
+    font-weight: 300;
     margin-top : 3px;
     margin-bottom: 4px;
+}
+.bold-text {
+    font-weight: 500;
 }
 .btn {
     cursor: pointer;
@@ -42,7 +46,7 @@ p {
 }
 #nav div:nth-child(n+2){
     width: 170px;
-    text-align: center;.search__form__input
+    text-align: center;
 }
 #nav div:first-child{
     width: calc(100% - 510px);
